@@ -11548,11 +11548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProject\\MyFinAPP\\MyFinAPP\\MyFinAPP.csproj",
+      "projectUniqueName": "C:\\Users\\301498\\source\\repos\\mycoreApp\\MyFinAPP\\MyFinAPP.csproj",
       "projectName": "MyFinAPP",
-      "projectPath": "C:\\MyProject\\MyFinAPP\\MyFinAPP\\MyFinAPP.csproj",
+      "projectPath": "C:\\Users\\301498\\source\\repos\\mycoreApp\\MyFinAPP\\MyFinAPP.csproj",
       "packagesPath": "C:\\Users\\301498\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProject\\MyFinAPP\\MyFinAPP\\obj\\",
+      "outputPath": "C:\\Users\\301498\\source\\repos\\mycoreApp\\MyFinAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
